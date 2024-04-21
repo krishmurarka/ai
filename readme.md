@@ -38,6 +38,8 @@ Follow these steps to set up Model Runner and Monitor on your system:
     - Create a `.env` file similar to `.env-example`. You need to obtain two keys:
       - **OpenAI Key**: If you want to run OpenAI calls.
       - **Langchain Key**: If you want monitoring from Langsmith.
+     
+5. ** download oolama in your computer to use open-source models **
 
 ## Usage
 
