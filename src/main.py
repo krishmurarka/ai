@@ -9,7 +9,7 @@ def main():
     # run_open_ai_langchain()
 
     # To Run OpenSource Models
-    # run_ollama()
+    run_ollama()
 
     # To Directly run open AI from python openai
     run_open_ai_api()
